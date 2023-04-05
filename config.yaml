@@ -1,6 +1,6 @@
 main:
-  project_name: exercise_14
-  experiment_name: dev
+  project_name: ML_pipeline
+  experiment_name: development
   execute_steps:
     - download
     - preprocess
